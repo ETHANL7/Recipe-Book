@@ -1,6 +1,6 @@
 Ingredient Types:
 
-Bread	Cooking Aids	Cooking Oils	Dairy	Doughs	Food Additives	Herbs	Leaving Agents	Meat	Spices	Vegetables
+Bread	Cooking Aids	Cooking Oils	Dairy	Doughs	Food Additives	Herbs	Leaving Agents	Meat	Sauces	Spices	Vegetables
 
 
 

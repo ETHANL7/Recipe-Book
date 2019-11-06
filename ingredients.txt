@@ -2,7 +2,7 @@ Ingredient Types:
 
 Bread			Cooking Aids				Cooking Oils			Pasta		
 									
-1 French baquette	67ml tsp balsamic vinegar		1 tsp extra virgin olive oil	700g of fettuccini pasta	
+1 French baquette	67ml tsp balsamic vinegar		1 tsp and tbsp extra virgin olive oil	700g of fettuccini pasta	
 			1 tsp flour				1 1/4 olive oil
 			275 ml red wine				1/2 cup vegetable oil
  			3 cups flour
@@ -26,8 +26,7 @@ Dairy						Fish
 1 1/2 cups buttermilk
 
 
-Leaving Agents			Meat				Sauces				Spices				Vegetables
-									
+Leaving Agents			Meat				Sauces				Spices													
 few srigs parsley		800g middle-cut fillet beef	1/2 tsp soy sauce		1 1/2 tsp garlic salt		2 stems scallion
 6-8 fresh basil leaves						1/2 tsp hot sauce		1 1/4 tsp ground pepper		7 ripe tomatoes 
 2 tbsp chopped thyme						2 tsp worcestershire sauce	1/2 tsp sea salt		2 cloves garlic
@@ -43,7 +42,9 @@ Fruit					Sweets
 					2 tsp vanilla extract
 					1 1/2 cups unsweetened cocoa powder
 
+Vegetables
 
+7 ripe tomatoes
 
 
 

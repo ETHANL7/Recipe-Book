@@ -1,10 +1,10 @@
 Ingredient Types:
 
-Bread			Cooking Aids			Cooking Oils			Pasta		
+Bread			Cooking Aids				Cooking Oils			Pasta		
 									
-1 French baquette	1 tsp balsamic vinegar		1 tsp extra virgin olive oil	700g of fettuccini pasta	
-							1/4 (60ml) olive oil
-
+1 French baquette	67ml tsp balsamic vinegar		1 tsp extra virgin olive oil	700g of fettuccini pasta	
+			1 tsp flour				1 1/4 olive oil
+			275 ml red wine
  
 
 
@@ -22,19 +22,27 @@ Dairy						Doughs	Food Additives	Fish				Herbs
 150ml carton whipping cream
 
 
-Leaving Agents			Meat	Sauces				Spices				Vegetables
+Leaving Agents			Meat				Sauces				Spices				Vegetables
 									
-few srigs parsley			1/2 tsp soy sauce		1 1/2 tsp garlic salt		2 stems scallion
-1/2 tsp hot sauce							1 1/4 tsp ground pepper		7 ripe tomatoes 
-6-8 fresh basil leaves			1 tsp worcestershire sauce	1/4 tsp sea salt		2 cloves garlic
-					1/2 cup mayonnaise						1/2 white onion
-
+few srigs parsley		800g middle-cut fillet beef	1/2 tsp soy sauce		1 1/2 tsp garlic salt		2 stems scallion
+1/2 tsp hot sauce										1 1/4 tsp ground pepper		7 ripe tomatoes 
+6-8 fresh basil leaves						2 tsp worcestershire sauce	1/2 tsp sea salt		2 cloves garlic
+2 tbsp chopped thyme						1/2 cup mayonnaise		1 tbsp black peppercorns	1/2 white onion
+																450g medium red onions
 
 Fruit					Sweets
 
 3 cups (390g) raspberries		75g dark brown soft sugar
 2 medium bananas			chocolate shaving/cocoa powder
 					225g of light digestive biscuits
+					1 tbsp sugar
+
+
+
+
+
+
+
 
 
 

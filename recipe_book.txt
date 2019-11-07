@@ -89,7 +89,6 @@ Method:
 MAIN COURSES:
 
 
-
 Beef Fillet Recipe:
 
 Ingredients:
@@ -158,12 +157,7 @@ Method:
 
 
 
-
-
-
-
 Desserts
-
 
 
 Banoffee Pie Recipe
@@ -203,7 +197,6 @@ Method:
 
 
 
-
 Chocolate Cake Recipe
 
 Ingredients:
@@ -230,8 +223,6 @@ Method:
 5. Bake for 30-35 minutes until a toothpick inserted into the centre comes out clean.
 6. Cool on wire racks for 15 minutes.
 7. Frost with your favourite frosting and enjoy!
-
-
 
 
 

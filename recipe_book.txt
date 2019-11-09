@@ -1,4 +1,4 @@
-﻿
+
 Introduction 
 
 
@@ -23,23 +23,20 @@ We hope your enjoy!
 STARTERS
 
 
-
 Tuna Dip Recipe
 Ingredients needed:
+1 tbsp olive oil;
+4 rashers smoked streaky bacon, finely chopped;
+2 medium onions, finely chopped;
+2 carrots, trimmed and finely chopped;
+2 celery sticks, finely chopped;
+2 garlic cloves, finely chopped;
+2-3 sprigs rosemary, leaves picked and finely chopped;
+500g minced beef;
 
-200 grams light smoked tuna; 
-1/2 a cup mayonnaise;
-1/3 of a cup sour cream;
-1/2 a small white onion;
-1 teaspoon Worcestershire sauce;
-1/2 a teaspoon hot sauce;
-1/2 a teaspoon soy sauce;
-1 teaspoon garlic salt;
-1/2 a teaspoon ground pepper;
-2 stems scallion;
-A few sprigs of parsley.
 
 Method:
+
 1.Open the tuna packages/cans and remove the brine/oil.
 2.In a bowl, break and fluff the smoked tuna with a fork.
 3.Add all of the sauces and seasonings listed above and gently mix.
@@ -51,17 +48,36 @@ Method:
 
 
 Bruschetta Starter Recipe
+
+
+1.Put a large saucepan on a medium heat and add 1 tbsp olive oil.
+2.Add 4 finely chopped bacon rashers and fry for 10 mins until golden and crisp.
+3.Reduce the heat 
+4.Add the 2 onions, 2 carrots, 2 celery sticks, 2 garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped. 
+5Then fry for 10 mins. 
+6.Stir the veg often until it softens.
+7.Increase the heat to medium-high, add 500g minced beef and cook stirring for 3-4 mins until the meat is browned all over.
+8.Add 2 tins plum tomatoes, the finely chopped leaves from � small pack basil, 1 tsp dried oregano, 2 bay leaves,2 tbsp tomato puree, 
+    1 beef stock cube, 1 deseeded and finely chopped red chilli (if using), 125ml red wine and 6 halved cherry tomatoes. 
+9.Stir with a wooden spoon, breaking up the plum tomatoes.
+10.Bring to the boil, reduce to a gentle simmer and cover with a lid. 
+11.Cook for 1 hr 15 mins stirring occasionally, until you have a rich, thick sauce.
+12.Add the 75g grated parmesan, check the seasoning and stir.
+13.When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions.
+14.Drain the spaghetti and stir into the bolognese sauce. Serve with more grated parmesan, the remaining basil leaves and crusty bread, if you like. 
+
+
+Pizza Pepperoni Recipe
 Ingredients needed:
 
-7 ripe tomatoes; 
-2 cloves of garlic, minced 
-1 tablespoon of extra virgin olive oil;
-1 teaspoon of balsamic vinegar;
-6-8 fresh basil leaves; thinly sliced or chopped
-1/4 teaspoon sea salt;
-1/2 a teaspoon of freshly ground black pepper;
-1 French baguette bread or similar Italian bread;
-1/4 of a cup (60 ml) olive oil.
+For the Pizza Sauce:
+1/2 (12 ounce) can Tomato Paste;
+1 teaspoon dried oregano, crushed1 teaspoon dried basil, crushed;
+1/2 teaspoon garlic powder;
+1/2 teaspoon onion powder;
+1/2 teaspoon sugar;
+1/2 teaspoon salt;
+1/4 teaspoon black pepper;
 
 
 Method:
@@ -142,6 +158,37 @@ Method:
 8.Add the pasta to sauce.
 9.Use enough of the pasta so that all of the sauce is used and the pasta is thoroughly coated. 
 10.Serve immediately. 
+
+
+
+
+Pizza-Pasta Section
+
+
+Pasta Bolognese
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Vegeterian Section
 
@@ -271,18 +318,26 @@ For the caramel:
 75g butter;
 75g dark brown soft sugar;
 397g can Carnation Condensed Milk;
+=======
 
-For the top:
-2 medium bananas; 
-150ml carton whipping cream, lightly whipped;
-Chocolate Shavings or Cocoa powder, to dust;
+For the Pizza Crust:
+3 1/4 cups all-purpose flour, or more as needed;
+2 (.25 ounce Pizza Crust Yeast; 
+1 tablespoon sugar;
+1 1/2 teaspoons salt;
+1 1/3 cups very warm water (120 degrees F to 130 degrees F);
+1/3 cup oil;
+>>>>>>> pizza-pasta
 
-You will also need...
-20cm loose-bottomed cake tin, greased.
+For the Toppings:
+1 (6 ounce) package HORMEL Pepperoni;
+1 cup shredded mozzarella cheese, or more to taste;
+
 
 
 
 Method:
+<<<<<<< HEAD
 1.Put the biscuit crumbs in your bowl.
 2.Tip in the melted butter and mix it all together. 
 3.Spoon this into the base and press against the bottom and sides ñ this is the base of the banoffee pie recipe. 
@@ -293,9 +348,16 @@ Method:
 8.Carefully lift the pie from the tin and place on a serving plate. 
 9.Slice the bananas; fold half of them into the softly whipped cream and spoon over the base. 
 10.Decorate with the remaining bananas and finish with dusting cocoa powder on top or use grated chocolate to decorate the pie! 
+=======
+>>>>>>> pizza-pasta
+
+For the sauce: 
+1.Combine all sauce ingredients with 1/2 cup water in a medium bowl.
+2.Let aside for flavors to develop while making crust. 
+3.Freeze remaining paste .
 
 
-
+<<<<<<< HEAD
 Chocolate Cake Recipe
 Ingredients:
 
@@ -311,42 +373,59 @@ Butter;
 1 1/2 cups warm water;
 1/2 cup vegetable oil;
 2 teaspoons vanilla extract
+=======
+For the crusts: 
+1. Combine 2 cups of flour with the dry yeast, sugar and salt. 
+2. Add the water and oil and mix until well blended (about 1 minute). 
+3. Gradually add enough remaining flour slowly, until a soft, sticky dough ball is formed.
+4. Knead for about 4 minutes, on a floured surface, until dough is smooth and elastic.
+5. Add more flour, if needed. (If using RapidRise(R) Yeast, let dough rest, covered, for 10 minutes.)
+6. Divide dough in half. 
+7. Pat each half (with floured hands) into a 12-inch greased pizza pan OR roll dough to fit pans.
 
-Method:
+>>>>>>> pizza-pasta
 
-1. Preheat oven to 350 degrees and butter three 9-inch cake rounds
-2. Mix together flour, sugar, cocoa powder, baking soda, baking powder, and salt in a stand mixer using a low speed until combined.
-3. Add egss, buttermilk, warm water, oil and the vanilla extract. Beat on a medium speed until smooth.
-4. Divide the batter among the three pans.
-5. Bake for 30-35 minutes until a toothpick inserted into the centre comes out clean.
-6. Cool on wire racks for 15 minutes.
-7. Frost with your favourite frosting and enjoy!
+For the pizza: 
+1. Preheat oven to 425 degrees F. Top crusts with sauce, pepperoni and cheese.
+2. Bake for 18 to 20 minutes until crusts are browned and cheese is bubbly. 
+3. For best results, rotate pizza pans between top and bottom oven racks halfway through baking.
 
 
+
+<<<<<<< HEAD
+=======
+Pizza Capricciosa Recipe
+>>>>>>> pizza-pasta
 
 Home made Sorbet Recipe
 Ingredients needed:
+1/4 cup canned coarsely pureed or ground tomatoes; 
+1/2 cup lightly packed coarsely shredded low-moisture mozzarella;
+2 ounces very thinly sliced prosciutto cotto (Italian-style uncured ham) or freshly sliced uncured boiled ham, torn into large shreds; 
+1/2 cup Sauteed Mushrooms; 
+3 ounces drained marinated artichokes, sliced into thin wedges;
 
-3 cups (390g) raspberries or preferred type of fruit, frozen; 
-1/4 of a cup (70g) fat-free condensed milk;
- 
+
+For crust:
+3 1/4 cups all-purpose flour, or more as needed;
+2 (.25 ounce) Pizza Crust Yeast; 
+1 tablespoon sugar1 1/2 teaspoons salt;
+1 1/3 cups very warm water (120 degrees F to 130 degrees F);
+1/3 cup oil;
+
 Method:
-1.Combine the berries (fruit) and the condensed milk in a food processor or powerful blender and process until smooth and creamy.
-2.Transfer to a freezable container and let it firm up for about 4 hours to be able to scoop.
+1. Make dough as instructed in recipe for Ca' Momi Pizza.
+2. Combine 2 cups of flour with the dry yeast, sugar and salt. 
+3. Add the water and oil and mix until well blended (about 1 minute). 
+4. Gradually add enough remaining flour slowly, until a soft, sticky dough ball is formed.
+5. Knead for about 4 minutes, on a floured surface, until dough is smooth and elastic.
+6. Add more flour, if needed. (If using RapidRise(R) Yeast, let dough rest, covered, for 10 minutes.)
+7. Divide dough in half. 
+8. Pat each half (with floured hands) into a 12-inch greased pizza pan OR roll dough to fit pans.
+9. Top pizza with tomato sauce, spreading outward in a widening circle with the back of a soupspoon. 
+10.Then sprinkle on mozzarella, prosciutto, sauteed mushrooms, and artichokes.
+11. Suggested wine pairing: Napa Valley Cabernet.
 
-Note:Keep in the freezer for up to 6 weeks.
-
-
-
-Conclusion
-
-To conclude our first ever recipe book publication, we would like to thank all the people who bought our book
-and chose to give us and our book a chance. We hope that you were satisfied with the recipes that we picked to
-present to the people at home as our first few ideas and we hope that we exceeded your expectations after
-having tried some of the recipes. A second book is already in process, with the goal to give an even bigger
-variety of recipe choices, while keeping in mind delicious recipes which take in to consideration food intollerences,
-while also taking note of the recipes so as to introduce a few new recipes which are of a much higher level for all
-those chefs at home who like to experiment a bit.
 
 
 

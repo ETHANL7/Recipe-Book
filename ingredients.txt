@@ -1,4 +1,4 @@
-Ingredients for Vegeterian Recipes
+Ingredients for Recipes
 
 
 Bread			Cooking Aids				Cooking Oils			Pasta		
@@ -50,7 +50,7 @@ Vegetables
 
 
 
-
+Ingredients for Vegeterian Recipes
 Ingredient Types:
 
 

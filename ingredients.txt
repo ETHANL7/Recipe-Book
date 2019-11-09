@@ -26,14 +26,13 @@ few srigs parsley		800g middle-cut fillet beef	1/2 tsp soy sauce		1 1/2 tsp garl
 
 
 Ingredients For Pizza-Pasta Recipes
-Ingredient Types:
 
+Ingredient Types:
 
 Cooking Oils:
 1 tbsp olive oil;
 2/3 cup oil;
 
- pizza-pasta
 
 Cooking Aids:
 125ml red wine;
@@ -41,7 +40,6 @@ Cooking Aids:
 4 (.25 ounce) Pizza Crust Yeast; 
 2 2/3 cups very warm water;
 5 teaspoons salt;
-
 
 Dairy:
 75g+250g parmesan, grated, plus extra to serve;
@@ -54,6 +52,37 @@ small pack basil;
 1 teaspn dried oregano;
 2 fresh bay leaves;
 1 teaspoon dried oregano;
+
+Seasonings:
+1/2 teaspn garlic powder;
+1/2 teaspoon onion powder;
+1 1/2 tablespoon sugar;
+1/4 teaspoon black pepper;
+1 red chilli;
+1 teaspoon dried basil;
+
+
+Meats:
+4 rashers smoked streaky bacon;
+500g beef mince;
+1 beef stock cube;
+2 ounces very thinly sliced prosciutto cotto; 
+1 (6 ounce) Pepperoni;
+
+Vegetables:
+2 medium onions;
+2 carrots;
+2 celery sticks;
+2 garlic cloves;
+2 x 400g tins plum tomatoes;
+1/4 cup canned ground tomatoes; 
+6 cherry tomatoes;
+1/2 cup Sauteed Mushrooms; 
+3 ounces drained marinated artichokes;
+
+Pasta:
+400g spaghetti
+
 
 
 
@@ -75,7 +104,6 @@ Cooking Oils
 		
 									
 Dairy	
-
 1 (8 ounce) container ricotta cheese;
 4 eggs;
 1 cup freshly grated Parmesan cheese;
@@ -117,38 +145,7 @@ Vegetables
 1 clove garlic;
 
 
-Seasonings:
-1/2 teaspn garlic powder;
-1/2 teaspoon onion powder;
-1 1/2 tablespoon sugar;
-1/4 teaspoon black pepper;
-1 red chilli;
-1 teaspoon dried basil;
->>>>>>> pizza-pasta
 
-
-Meats:
-4 rashers smoked streaky bacon;
-500g beef mince;
-1 beef stock cube;
-2 ounces very thinly sliced prosciutto cotto; 
-1 (6 ounce) Pepperoni;
-
-
-Vegetables:
-2 medium onions;
-2 carrots;
-2 celery sticks;
-2 garlic cloves;
-2 x 400g tins plum tomatoes;
-1/4 cup canned ground tomatoes; 
-6 cherry tomatoes;
-1/2 cup Sauteed Mushrooms; 
-3 ounces drained marinated artichokes;
-
-
-Pasta:
-400g spaghetti
 
 
 

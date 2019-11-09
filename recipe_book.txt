@@ -1,9 +1,9 @@
-Vegetarian Recipe Book
+Vegeterian Recipe Book
 
 
 Ricotta Gnocchi Recipe
-
 Ingredients needed:
+
 
 Gnocchi:
 1 (8 ounce) container ricotta cheese;
@@ -14,6 +14,8 @@ Gnocchi:
 1 teaspoon garlic powder;
 1 cup all-purpose flour;
 
+
+
 Sauce:
 3 tablespoons olive oil;
 1 tablespoon minced garlic;
@@ -22,6 +24,8 @@ Sauce:
 6 basil leaves, finely shredded;
 Salt and pepper to taste;
 8 ounces fresh mozzarella cheese, cut into small chunks;
+
+
 
 Method:
 1.Stir together the ricotta cheese, eggs, Parmesan Cheese, salt, pepper, and garlic powder in a large bowl until evenly combined. 
@@ -41,9 +45,7 @@ Method:
 
 
 
-
 Eggplant Parmesan Recipe
-
 Ingredients needed:
 
 3 eggplants, peeled and thinly sliced;
@@ -53,6 +55,7 @@ Ingredients needed:
 1 (460 grams) package mozzarella cheese, shredded and divided;
 1/2 cup grated Parmesan cheese, divided;
 1/2 teaspoon dried basil;
+
 
 
 Method:
@@ -71,7 +74,6 @@ Method:
 
 
 Tradition Style Vegan Shepherd's Pie Recipe
-
 Ingredients needed:
 
 Mashed potato layer:
@@ -94,6 +96,8 @@ Bottom layer:
 1 pinch ground black pepper;
 1 (400 grams) package vegetarian ground beef substitute;
 1/2 cup shredded Cheddar-style soy cheese.
+
+
 
 Method:
 1.Place the potatoes in a pot, cover with cold water, and bring to a boil over medium-high heat. 
@@ -118,6 +122,15 @@ Method:
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
 
 

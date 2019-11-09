@@ -1,3 +1,4 @@
+﻿
 Introduction 
 
 
@@ -24,7 +25,6 @@ STARTERS
 
 
 Tuna Dip Recipe
-
 Ingredients needed:
 
 200 grams light smoked tuna; 
@@ -48,12 +48,9 @@ Method:
 6.Finally add the mayonnaise and mix them good.
 7.Cover and chill in fridge at least 30 minutes before serving.
 
-Note: Cream or cottage cheese may be used as a substitute for the mayonnaise. The same method aplies.
-
 
 
 Bruschetta Starter Recipe
-
 Ingredients needed:
 
 7 ripe tomatoes; 
@@ -65,6 +62,7 @@ Ingredients needed:
 1/2 a teaspoon of freshly ground black pepper;
 1 French baguette bread or similar Italian bread;
 1/4 of a cup (60 ml) olive oil.
+
 
 Method:
 1.Boil 2 quarts of water.
@@ -83,7 +81,6 @@ MAIN COURSES
 
 
 Beef Fillet Recipe:
-
 Ingredients:
 
 800g of middle-cut fillet of beef;
@@ -94,6 +91,7 @@ Ingredients:
 1 tablespoon of olive oil;
 1 tablespoon of sugar;
 salt;
+
 
 For the sauce:
 1 teaspoon of flour
@@ -121,7 +119,6 @@ Method:
 
 
 Fettuccine Alfredo Recipe
-
 Ingredients needed:
 
 700grams of dry fettuccini pasta;
@@ -146,12 +143,124 @@ Method:
 9.Use enough of the pasta so that all of the sauce is used and the pasta is thoroughly coated. 
 10.Serve immediately. 
 
+Vegeterian Section
+
+
+Ricotta Gnocchi Recipe
+Ingredients needed:
+
+Gnocchi:
+1 (8 ounce) container ricotta cheese;
+2 eggs;
+1/2 cup freshly grated Parmesan cheese;
+1 teaspoon salt;
+1 teaspoon pepper;
+1 teaspoon garlic powder;
+1 cup all-purpose flour;
+
+
+Sauce:
+3 tablespoons olive oil;
+1 tablespoon minced garlic;
+1 (15.5 ounce) can diced tomatoes;
+1 dash crushed red pepper flakes (optional);
+6 basil leaves, finely shredded;
+Salt and pepper to taste;
+8 ounces fresh mozzarella cheese, cut into small chunks;
+
+
+Method:
+1.Stir together the ricotta cheese, eggs, Parmesan Cheese, salt, pepper, and garlic powder in a large bowl until evenly combined. 
+2.Mix in 1 cup of flour. 
+3.Add additional flour if needed to form a soft dough. 
+4.Divide the dough into 3 or 4 pieces, and roll into 1/2-inch-thick ropes on a floured surface. 
+5.Cut each rope into 1-inch pieces, and place on a lightly floured baking sheet. 
+6.Place in the refrigerator until ready to use. 
+7.Heat olive oil in a saucepan over medium heat. 
+8.Stir in garlic, and cook until softened and fragrant, about 1 minute. 
+9.Pour in diced tomatoes and red pepper flakes; bring to a simmer over medium-high heat, and cook for 10 minutes. 
+10.Stir in shredded basil and season to taste with salt and pepper. 
+11.While sauce is simmering, bring a large pot of lightly salted water to a boil over high heat. 
+12.Boil the gnocchi until they float to the surface, 1 to 2 minutes, then drain. 
+13.To assemble the dish, stir the cubed mozzarella cheese into the sauce and allow the heat of the sauce to soften, but not melt the cheese. 
+14.Place gnocchi into a serving bowl, and spoon sauce overtop. 
+
+
+
+Eggplant Parmesan Recipe
+Ingredients needed:
+
+3 eggplants, peeled and thinly sliced;
+2 eggs, beaten;
+4 cups Italian seasoned bread crumbs;
+6 cups spaghetti sauce, divided;
+1 (460 grams) package mozzarella cheese, shredded and divided;
+1/2 cup grated Parmesan cheese, divided;
+1/2 teaspoon dried basil;
+
+
+Method
+1.Preheat oven to 175 degrees C. 
+2.Dip eggplant slices in egg, then in bread crumbs. 
+3.Place in a single layer on a baking sheet. 
+4.Bake in preheated oven for 5 minutes on each side. 
+5.In a 23x30 cm baking dish spread spaghetti sauce to cover the bottom. 
+6.Place a layer of eggplant slices in the sauce. 
+7.Sprinkle with mozzarella and Parmesan cheeses. 
+8.Repeat with remaining ingredients, ending with the cheeses. 
+9.Sprinkle basil on top. 
+10.Bake in preheated oven for 35 minutes, or until golden brown. 
+
+
+
+Tradition Style Vegan Shepherd's Pie Recipe
+Ingredients needed:
+
+Mashed potato layer:
+5 russet potatoes, peeled and cut into 1-inch cubes;
+1/2 cup vegan mayonnaise;
+1/2 cup soy milk;
+1/4 cup olive oil;
+3 tablespoons vegan cream cheese;
+2 teaspoons salt.
+
+
+
+Bottom layer:
+1 tablespoon vegetable oil;
+1 large yellow onion, chopped;
+2 carrots, chopped;
+3 stalks celery, chopped;
+1/2 cup frozen peas;
+1 tomato, chopped;
+1 teaspoon Italian seasoning;
+1 clove garlic, minced;
+1 pinch ground black pepper;
+1 (400 grams) package vegetarian ground beef substitute;
+1/2 cup shredded Cheddar-style soy cheese.
+
+
+
+Method:
+1.Place the potatoes in a pot, cover with cold water, and bring to a boil over medium-high heat. 
+2.Turn the heat to medium-low, and boil the potatoes until tender, about 25 minutes; drain. 
+3.Stir the vegan mayonnaise, soy milk, olive oil, vegan cream cheese, and salt into the potatoes, and mash with a potato masher until smooth and fluffy. 
+4.Set the potatoes aside. 
+5.Preheat oven to 200 degrees C, and spray a 2-quart baking dish with cooking spray. 
+6.Heat the vegetable oil in a large skillet over medium heat, and cook and stir the onion, carrots, celery, frozen peas, and tomato until softened, about 10 minutes. 
+7.Stir in the Italian seasoning, garlic, and pepper. 
+8.Reduce the heat to medium-low, and crumble the vegetarian ground beef substitute into the skillet with the vegetables. 
+9.Cook and stir, breaking up the meat substitute, until the mixture is hot, about 5 minutes. 
+10.Spread the vegetarian meat substitute mixture into the bottom of the baking dish, and top with the mashed potatoes, smoothing them into an even layer. 
+11.Sprinkle the potatoes with the shredded soy cheese. 
+12.Bake in the preheated oven until the cheese is melted and slightly browned and the casserole is hot, about 20 minutes. 
+
+
 
 DESSERTS
 
 
 Banoffee Pie Recipe
-
 Ingedients needed:
 
 For the base:
@@ -171,6 +280,8 @@ Chocolate Shavings or Cocoa powder, to dust;
 You will also need...
 20cm loose-bottomed cake tin, greased.
 
+
+
 Method:
 1.Put the biscuit crumbs in your bowl.
 2.Tip in the melted butter and mix it all together. 
@@ -187,7 +298,6 @@ Method:
 
 
 Chocolate Cake Recipe
-
 Ingredients:
 
 Butter;
@@ -216,7 +326,6 @@ Method:
 
 
 Home made Sorbet Recipe
-
 Ingredients needed:
 
 3 cups (390g) raspberries or preferred type of fruit, frozen; 
@@ -227,6 +336,34 @@ Method:
 2.Transfer to a freezable container and let it firm up for about 4 hours to be able to scoop.
 
 Note:Keep in the freezer for up to 6 weeks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -245,6 +382,15 @@ those chefs at home who like to experiment a bit.
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
 
 
